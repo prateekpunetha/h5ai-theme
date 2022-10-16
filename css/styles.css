@@ -1398,7 +1398,7 @@ select {
 
 #sidebar input:hover,
 #sidebar select:hover {
-  background: rgba(0, 0, 0, 0.03);
+  background: #0f111a;
 }
 
 #sidebar select {
